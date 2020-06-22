@@ -1,0 +1,18 @@
+## PROYECTO DE FRANCISCO LÓPEZ SÁNCHEZ ##
+Espero que disfrutes del huerto.
+
+El componente es un reloj que cada segundo pasa una hora. Cuando pasa de las 24 a la 1, el juego
+avanza un día, por lo que tus cultivos crecerán, y los que no están regados, se secarán.
+En el caso de que falle por cualquier motivo, te lo adjunto como proyecto en el .zip. Lo único que habría que hacer
+es inicializar "hora" en sus atributos.
+
+A veces (muy raramente) el cambio de día desata algún bug raro, como que desaparezca el botón de ir al mercado
+o que al cambiar de ventana no se cierre la ventana vieja. Espero que no pase. Si pasa, con salir y entrar se arregla.
+
+Lo siento por no hacer el instalador... no he conseguido arreglar el error al hacer clean and build.
+
+La base de datos se llama "huerto" y el archivo a importar en phpmyadmin es "huerto.sql".
+
+Mucho ánimo con todo.
+
+Fran.

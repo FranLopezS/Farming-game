@@ -1,0 +1,14 @@
+<index version="1.0">
+	<indexitem text="Explicación general" target="index"/>
+	<indexitem text="Huerto">
+		<indexitem text="Explicación" target="huerto"/>
+		<indexitem text="Bolsillo" target="bolsillo"/>
+		<indexitem text="Acciones" target="acciones"/>
+	</indexitem>
+	<indexitem text="Tienda">
+		<indexitem text="Explicación" target="tienda"/>
+	</indexitem>
+	<indexitem text="Administración">
+		<indexitem text="Acciones del administrador" target="admin"/>
+	</indexitem>
+</index>

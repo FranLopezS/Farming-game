@@ -1,0 +1,8 @@
+<map version="1.0">
+	<mapID target="index" url="html/index.html"/>
+	<mapID target="huerto" url="html/huerto.html"/>
+	<mapID target="bolsillo" url="html/bolsillo.html"/>
+	<mapID target="acciones" url="html/acciones.html"/>
+	<mapID target="tienda" url="html/tienda.html"/>
+	<mapID target="admin" url="html/admin.html"/>
+</map>

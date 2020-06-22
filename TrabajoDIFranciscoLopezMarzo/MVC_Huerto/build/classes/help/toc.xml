@@ -1,0 +1,14 @@
+﻿<toc version="1.0">
+	<tocitem text="Explicación general" target="index"/>
+	<tocitem text="Huerto">
+		<tocitem text="Explicación" target="huerto"/>
+		<tocitem text="Bolsillo" target="bolsillo"/>
+		<tocitem text="Acciones" target="acciones"/>
+	</tocitem>
+	<tocitem text="Tienda">
+		<tocitem text="Explicación" target="tienda"/>
+	</tocitem>
+	<tocitem text="Administración">
+		<tocitem text="Acciones del administrador" target="admin"/>
+	</tocitem>
+</toc>
