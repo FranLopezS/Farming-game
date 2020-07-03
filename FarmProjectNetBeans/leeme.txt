@@ -1,0 +1,11 @@
+## PROYECTO DE FRANCISCO LÓPEZ SÁNCHEZ ##
+Espero que disfrutes del huerto.
+
+El componente es un reloj que cada segundo pasa una hora. Cuando pasa de las 24 a la 1, el juego
+avanza un día, por lo que tus cultivos crecerán, y los que no están regados, se secarán.
+En el caso de que falle por cualquier motivo, te lo adjunto como proyecto en el .zip. Lo único que habría que hacer
+es inicializar "hora" en sus atributos.
+
+La base de datos se llama "huerto" y el archivo a importar en phpmyadmin es "huerto.sql". Está en MySQL.
+
+Este proyecto funcionará en NetBeans.
